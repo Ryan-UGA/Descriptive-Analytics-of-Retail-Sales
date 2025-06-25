@@ -67,3 +67,10 @@ This project conducts a **descriptive analytics** investigation into the `Carsea
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost)
 - ISLP’s `Carseats` dataset
 - Scikit-learn Pipelines, ColumnTransformer, GridSearchCV
+
+## Project Contributors
+- Ryan Cullen
+- Collin Ladina
+- Judd Douglas
+- Matt Karnatz
+- Nick Butts
