@@ -57,7 +57,7 @@ This project conducts a **descriptive analytics** investigation into the `Carsea
 
 ## Key Insights
 
-- This project falls under **descriptive analytics**, focused on explaining the relationships between sales and influencing variables—not predicting future data or prescribing actions.
+- This project falls focused on explaining the relationships between sales and influencing variables.
 - **Price**, **ShelveLoc (Good)**, and **Age** emerged as the most influential factors across models.
 - Regularized models provided slightly different coefficient magnitudes but aligned in direction with the base linear regression.
 - Tree-based models helped validate the most important features via feature importance rankings.
@@ -66,7 +66,7 @@ This project conducts a **descriptive analytics** investigation into the `Carsea
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost)
 - ISLP’s `Carseats` dataset
-- Scikit-learn Pipelines, ColumnTransformer, GridSearchCV
+- Scikit-learn Pipelines, ColumnTransformer, GridSearchCV, etc.
 
 ## Project Contributors
 - Ryan Cullen
